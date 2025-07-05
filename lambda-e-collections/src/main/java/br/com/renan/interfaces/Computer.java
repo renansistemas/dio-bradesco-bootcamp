@@ -1,4 +1,4 @@
-package br.com.renan;
+package br.com.renan.interfaces;
 
 public class Computer implements VideoPlayer, MusicPlayer {
     @Override

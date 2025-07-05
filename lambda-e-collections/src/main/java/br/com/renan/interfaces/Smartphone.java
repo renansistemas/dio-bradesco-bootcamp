@@ -1,4 +1,4 @@
-package br.com.renan;
+package br.com.renan.interfaces;
 
 public class Smartphone implements VideoPlayer, MusicPlayer {
     @Override
